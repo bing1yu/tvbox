@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
-"logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
+"logo":"http://photonjmaz.photo.store.qq.com/psc?/V51G1wGq1I40Br1asiA93robvQ1r58HH/LiySpxowE0yeWXwBdXN*SYXnyhAr6zMykPFxanmDuCPrAOB6XMwIrbyx9WHFrXxgFQkpO8yeOBT7Lgh.1E548STJVxlJCVwfRYpIZecA5*0!/b&bo=rAOsA6wDrAMBFzA!",
 "lives":[{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://tv.iill.top/m3u/Gather","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"YanG•直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2},
